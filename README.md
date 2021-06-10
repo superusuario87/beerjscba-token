@@ -4,7 +4,7 @@ Liberia para autenticacion de usuarios.
 
 
 ```js
-import { token } from '@beerjscba/token`;
+import { token } from '@superusuario87beerjscba-token';
 
 const t = token('xxxxx');
 ```
